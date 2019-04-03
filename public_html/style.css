@@ -1,0 +1,76 @@
+p{
+    color:white;
+    font-size:15px;
+    font-family:"Comic sans ms";
+    text-shadow:1px 1px 1px #111111;
+}
+
+body{
+    background-color:black;
+}
+
+*{
+    margin:0;
+    padding:0;
+    font-family:"Comic sans ms";
+}
+
+header{
+    background-color:#35b8b0;
+    height:80px;
+    padding:20px;
+}
+
+#principal{
+    clear:both;
+    background-image: url('img/hvs.jpg');
+    background-size:100%;
+    min-height:400px;
+    padding:80px 0 0 0;
+}
+
+footer{
+    clear:both;
+    background-color:#35b8b0;
+    height:50px;
+    text-align:center;
+    padding: 10px;
+}
+
+.container{
+    width:960px;
+    margin:0 auto;
+}
+
+h1{
+    text-shadow:1px 1px 1px #111111;
+    color:#FFFFFF;
+    text-align:center;
+    margin:0 0 50px 0;
+}
+
+.efeito{
+    background-color:rgba(0,0,0,0.5);
+    padding: 80px 0 80px 0;
+}
+
+#logo{
+    float: left;
+}
+
+#menu{
+    margin-top:20px;
+    float: right;
+}
+
+#menu a{
+    text-decoration:none;
+    color:#000000;
+    text-shadow:1px 1px #111111;
+    padding:15px;
+}
+
+#menu a:hover{
+    background-color:#111;
+    color:#35b8b0;
+}
